@@ -1,17 +1,18 @@
-body{
-    color:rgb(0, 0, 0);
-    background-color: rgb(8, 1, 94);
-    margin:0px;
+body {
+    color: rgb(68, 6, 139);
+    background-color: rgb(57, 1, 94);
+    margin: 0px;
+    font-family: "Bebas Neue", sans-serif;
 }
 
-header{
+header {
     border-bottom: solid 2px rgb(255, 249, 249);
     padding: 20px;
     font-size: 32px;
-    color:rgb(0, 0, 0)
+    color: rgb(255, 255, 255)
 }
 
-section{
+section {
     background: rgb(82, 1, 102);
     padding-bottom: 80px;
     padding-top: 80px;
