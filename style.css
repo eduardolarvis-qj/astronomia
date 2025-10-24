@@ -1,6 +1,6 @@
 body {
-    color: rgb(57, 1, 94);
-    background-color: rgb(57, 1, 94);
+    color: rgb(28, 2, 122);
+    background-color: rgb(33, 5, 134);
     margin: 0px;
     font-family: "Bebas Neue", sans-serif;
 }
@@ -13,7 +13,7 @@ header {
 }
 
 section {
-    background: rgb(48, 1, 102);
+    background: rgb(37, 1, 78);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
