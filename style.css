@@ -3,6 +3,7 @@ body {
     background-color: rgb(43, 11, 117);
     margin: 0px;
     font-family: "Bebas Neue", sans-serif;
+    margin-bottom: 100px;
 }
 
 header {
@@ -14,7 +15,7 @@ header {
 
 .chamada {
     background: rgb(97, 72, 185);
-    padding-bottom: 80px; 
+    padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
@@ -42,12 +43,21 @@ img {
     gap: 10px;
 }
 
-.categoria{
+.categoria {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 50px;
 }
 
 .categoria-videos img {
- opacity: 0.5;
- height: 200px;
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid rgb(108, 41, 216);
+}
+.categoria h2{
+    color: rgb(104, 81, 187);
 }
